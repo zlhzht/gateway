@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T13:17:29.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ZWtE7mlzcCcEMqnYRT8T" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-03T13:18:43.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="yRnEiD_HhtPwfZQHhyZe" version="14.8.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="k6uhKt3Hn7oym8SlnJA1-17" value="&lt;font style=&quot;font-size: 18px&quot;&gt;AWSIoT服务测试控制台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;strokeColor=#CCFFCC;" vertex="1" parent="k6uhKt3Hn7oym8SlnJA1-1">
           <mxGeometry x="14" y="15" width="348" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k6uhKt3Hn7oym8SlnJA1-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;MQTT&lt;br&gt;Broker&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="k6uhKt3Hn7oym8SlnJA1-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;MQTT&lt;br&gt;Broker&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="28" y="219" width="204" height="140.5" as="geometry" />
         </mxCell>
         <mxCell id="k6uhKt3Hn7oym8SlnJA1-12" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=6;endSize=5.26;entryX=0.001;entryY=0.824;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B20000;fillColor=#CCCCFF;" edge="1" parent="1" target="k6uhKt3Hn7oym8SlnJA1-1">
