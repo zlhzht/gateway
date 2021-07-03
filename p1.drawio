@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T07:44:48.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="14.8.3" etag="Z2YU9ZdpXm_lCs3ylo2V" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7ZjbctowEIafhksYH8LpEggkM22SmZK218JabDWy5MoCQ56+K1uObZzSZJqUdIYrW7/W2tWu9rOh48/i3ZUiSXQjKfCO59Bdx7/seJ7reT5ejLIvlNHQLYRQMWqNKmHJHsGKjlU3jELaMNRScs2SphhIISDQDY0oJbOm2VrypteEhNASlgHhbfU7ozqyu/CGlX4NLIxKz+5gXMzEpDS2O0kjQmVWk/x5x58pKXVxF+9mwE3yyrwUzy1+M/sUmAKhX/IAvd3tbz8Ng+Fo9TnbphRurvtd1y6zJXxjd3ynwiAiStuo9b5MRZqxmBOBo2mkY46ii7epRltbN4wA56Rij1JoUloEZsAEqPt9Yqy0ArNGyElqimOeae+ljAuUhl1Nsnu7AhmDVns0sbMXNs3lObPDrCrasDxTUa1g3tiKxB6U8GnlKpd4Y9OZD7+moO5WP8xx8xxOVsCLRzteX5AY8NLxBhwdTFcK70Kd77BQWCOng58bU35MEZeq40/yNiD7aqJ6vJ/IlGkmRW15jIsdOmi7JGbLCtYNjzFhXMvcZR/MoFj2wO28mHnyRqq1Tc7y3eZbv4c0NX5uGOegbDnLgHOL2eKukLkMSCXfrdcswJQ5tuBFLPkUrn3hwI7ECYdeIGO7KicBRNjGoJqtzZl4KIRIa0OHiamft8iyrEcVyXpMFobHG8KrnTLbQbUesNWesrjgRtNVQIXfY3je10xgfEXQC0o0MZVCPcXrBk9Pl2xRVGkXY1/0jc9cTrs+BjDqJSJEH1nENCwT3C46yhCvzcZTcoNOqO2gejeZBruRW2ZWyU2NsMCUVUq74Y7j4cVt6A2afdhv96E7eqYPh69vQxzWOvE10PNb0GvBDgSdmNcHjlZ4Yh/uI4YndorygvGyBGskm0Wfa8ZA8d1h1wC+ktm8Eqa5gBMmlywwdDwo4StrksqNCuCPRxnfl0SFcHTFC9t7tPEubNdYAcfW3TZfjWdw/g045zQjihpySqVYaqJss3OqiMhtiEDsqKMc9T4IRy9OylHXeTuUNsnZguu7ofTgi8Z95pPmWZSO/iVK+2eUNgwHZ5SeDKVbgoE53/C3m36OotdfULpkCnMmjzO0fB+emqGDkzJ03PX+d4Qefo1+TIYOzwxtGI7ODD0VQye8+AZ1LqWQOU/bHF3uUw0IE2dCYyaOgtT/ICAdnRSkb4LR9/vMHJ+UkShV/4Hm5rV/kv35Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-03T09:07:15.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="BapIGQCNrctMuRNIkPkt" version="14.8.3" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-3" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=1;perimeterSpacing=1;" vertex="1" parent="1">
+          <mxGeometry x="53" y="134" width="537" height="424" as="geometry">
+            <mxRectangle x="144" y="319" width="50" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;跨平台的Java应用程序：与底层硬件解耦&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="a8ILpG0mJ9cBbUMgCVEm-3">
+          <mxGeometry x="47" y="16" width="442" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-11" value="&lt;span style=&quot;font-size: 18px&quot;&gt;软硬分离的虚拟机(JVM)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="a8ILpG0mJ9cBbUMgCVEm-3">
+          <mxGeometry x="45" y="106" width="442" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-12" value="&lt;span style=&quot;font-size: 18px&quot;&gt;底层操作系统(RT-Thread)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="a8ILpG0mJ9cBbUMgCVEm-3">
+          <mxGeometry x="45" y="186" width="442" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-24" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="a8ILpG0mJ9cBbUMgCVEm-3">
+          <mxGeometry x="45" y="266" width="438" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-25" value="&lt;font style=&quot;font-size: 18px&quot;&gt;CPU&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="a8ILpG0mJ9cBbUMgCVEm-3">
+          <mxGeometry x="126" y="282" width="84" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-31" value="&lt;font style=&quot;font-size: 18px&quot;&gt;外围设备接口&lt;br&gt;(GPIO, UART, SPI, I2C)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="a8ILpG0mJ9cBbUMgCVEm-3">
+          <mxGeometry x="123" y="331" width="303" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-28" value="&lt;font style=&quot;font-size: 18px&quot;&gt;硬件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;opacity=0;" vertex="1" parent="a8ILpG0mJ9cBbUMgCVEm-3">
+          <mxGeometry x="60" y="293" width="50" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-30" value="&lt;font style=&quot;font-size: 18px&quot;&gt;FLASH&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="a8ILpG0mJ9cBbUMgCVEm-3">
+          <mxGeometry x="339" y="284.5" width="84" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;RAM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="a8ILpG0mJ9cBbUMgCVEm-3">
+          <mxGeometry x="226" y="282" width="84" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-41" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="625" y="442" as="sourcePoint" />
+            <mxPoint x="625" y="157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-42" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Bottom&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="652" y="368" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-43" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Middleware&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="652" y="262" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ILpG0mJ9cBbUMgCVEm-44" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Upper&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="648" y="184" width="83" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
