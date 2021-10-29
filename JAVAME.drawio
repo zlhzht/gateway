@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T13:57:34.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="15.6.2" etag="zeBrLkgw3uhLmcJN9gf_" type="github"><diagram id="-PnuqZff32_y7zkRFcTy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-29T14:07:22.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Jv4VUFiMb7xy0wadO-KW" version="15.6.2" type="github">
+  <diagram id="-PnuqZff32_y7zkRFcTy" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8NOdNHVqIXiVDPrWrhHi-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;apps&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="278" y="134" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8NOdNHVqIXiVDPrWrhHi-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#99CCFF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="275" y="213" width="239" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="8NOdNHVqIXiVDPrWrhHi-3" value="API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="297" y="222" width="199" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="8NOdNHVqIXiVDPrWrhHi-4" value="JNI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="297" y="259" width="199" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8NOdNHVqIXiVDPrWrhHi-5" value="JVM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#33FF33;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="273" y="300" width="244" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8NOdNHVqIXiVDPrWrhHi-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390.5" y="334" as="sourcePoint" />
+            <mxPoint x="391" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8NOdNHVqIXiVDPrWrhHi-10" value="OS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="266" y="390" width="255" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="8NOdNHVqIXiVDPrWrhHi-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;apps&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="134" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8NOdNHVqIXiVDPrWrhHi-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;apps&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="438" y="134" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8NOdNHVqIXiVDPrWrhHi-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="391.5" y="170" as="sourcePoint" />
+            <mxPoint x="392" y="207" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="392" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
